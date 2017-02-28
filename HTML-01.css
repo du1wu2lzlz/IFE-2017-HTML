@@ -1,0 +1,22 @@
+@charset "utf-8";
+body{
+	 font-family:"Times New Roman", Times,serif;
+	}
+#content{
+	     background-colcr:#CCC;
+	    }
+#firstpart{
+	       border:5px solid #CCC;
+	       outline-width:medium;
+		   margin-top:30px;
+		   margin-left:25px;
+		   margin-right:25px;
+           }
+#header{
+	    margin-top:0px;
+		background-color:#003;
+		margin-left:0px;
+	    }
+#list1{
+	   list-style-position:inherit;
+	   }
